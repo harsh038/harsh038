@@ -1,2 +1,1 @@
-
-I'm Harsh, a tech enthusiast and CSE student at Darshan University. 🚀 I’m also working as a Teaching Assistant, where I help fellow students and share my passion for technology. 💻 I’m all about diving into new tech and exploring how it can solve problems and create cool projects. 🌟
+I'm Harsh 👋, a tech enthusiast and CSE student at Darshan University. 🚀📚 As a Teaching Assistant, I get to support fellow students and share my love for technology. 💻✨ I’m passionate about exploring new tech and using it to tackle problems and build exciting projects. 🌟🔧
