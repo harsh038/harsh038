@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harsh Thummar</h1>
 <h3 align="center">Computer Science Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hst038&label=Profile%20views&color=0e75b6&style=flat" alt="hst038" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh038&label=Profile%20views&color=0e75b6&style=flat" alt="harsh038" /> </p>
 
-- 🌱 I’m currently learning **Backend,Flutter,RestAPI**
+- I’m currently learning **Backend,Flutter,RestAPI**
 
-- 📫 How to reach me **harshthummar2004@gmail.com**
-
-- 📄 Know about my experiences [Teaching Assistant at Darshan University](Teaching Assistant at Darshan University)
+- Teaching Assistant at Darshan University
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
