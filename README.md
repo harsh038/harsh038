@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh038&label=Profile%20views&color=0e75b6&style=flat" alt="harsh038" /> </p>
 
-- I’m currently learning **Backend,Flutter,RestAPI**
-
-- Teaching Assistant at Darshan University
+- **Teaching Assistant** at Darshan University
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
